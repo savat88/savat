@@ -1,0 +1,111 @@
+    [
+        {
+            "name": "นารูโตะ ",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Studio Pierrot",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "วันพีช",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.54",
+            "episode": 700,
+             "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Toei Animation",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "ผ่าพิภพไททัน",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.50",
+            "episode": 500,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Wit Studio",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "สัตว์ประหลาด",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.16",
+            "episode": 70,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Madhouse",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "เดธโน้ต",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Madhouse",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "ไวโอเล็ต เอเวอร์การ์เดน",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.39",
+            "episode": 14,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Kyoto Animation",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "โตเกียวกูล",
+            "description": "",
+            "Rating": "8.01",
+            "episode": 12,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Studio Pierrot",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "Black Clover",
+            "description": "คำอธิบายบลาๆๆๆ",
+            "Rating": "6.55",
+            "episode": 51,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Studio Pierrot",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "Sword Art Online",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "7.66",
+            "episode": 25,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"A-1 Pictures",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "Nanatsu no Taizai",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.30",
+            "episode": 24,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"A-1 Pictures",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "Kiseijuu: Sei no Kakuritsu",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "8.53",
+            "episode": 24,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Madhouse",
+            "img": "ลิ้ง"
+        },
+        {
+            "name": "Hunter x Hunter (2011)",
+            "description": "คำอธิบายบลาๆๆๆ.",
+            "Rating": "9.11",
+            "episode": 148,
+            "categorie":"แอนิเมชั่น | ดราม่า | การผจญภัย",
+            "studio":"Madhouse",
+            "img": "ลิ้ง"
+        }
+
+    ]
